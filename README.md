@@ -28,15 +28,14 @@ The app provides insights into medal tallies, country-wise performance, athlete 
 
 ---
 
-## 📂 Project Structure
-olympics-analysis-streamlit/
-│── app.py
-│── helper.py
-│── preprocessor.py
-│── athlete_events.csv
-│── noc_regions.csv
-│── requirements.txt
-│── README.md
+## 📂 Project Files
+
+- `app.py` – Main Streamlit application
+- `helper.py` – Data analysis and aggregation functions
+- `preprocessor.py` – Data cleaning and preprocessing logic
+- `noc_regions.csv` – Country / NOC mapping dataset
+- `requirements.txt` – Project dependencies
+- `README.md` – Project documentation
 
 ---
 
