@@ -6,7 +6,7 @@ The app provides insights into medal tallies, country-wise performance, athlete 
 ---
 
 ## Live Demo
- https://your-app-name.streamlit.app
+ https://olympics-analysis-app-ienfufjzxtlabpa5cntrs7.streamlit.app/
 
 ---
 
