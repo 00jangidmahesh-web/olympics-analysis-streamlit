@@ -197,7 +197,8 @@ if user_menu == "Athlete wise Analysis":
 st.markdown(
     """
     ---
-    👨‍💻 Developed by **Mahesh Kumar Jangid**  
-    📊 Olympics Data Analysis Dashboard | Streamlit
+    Developed by **Mahesh Kumar Jangid**  
+    Olympics Data Analysis Dashboard | Streamlit
     """
 )
+
