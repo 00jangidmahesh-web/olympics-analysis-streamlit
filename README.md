@@ -37,3 +37,14 @@ olympics-analysis-streamlit/
 │── noc_regions.csv
 │── requirements.txt
 │── README.md
+
+---
+
+## 📊 Dataset
+
+Due to GitHub file size limitations, the main dataset is hosted on Google Drive.
+
+- athlete_events.csv:  
+  https://drive.google.com/file/d/1AQN6Xab3FASVNz97q4vL3fylVFybc3Cu/view?usp=drive_link
+
+- noc_regions.csv: Included in this repository
